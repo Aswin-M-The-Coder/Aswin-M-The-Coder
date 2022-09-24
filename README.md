@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aswin-M-The-Coder
+- 👋 Hi, I’m @Aswin M
 - 👀 I’m interested in Automation, machine learning and python
 - 🌱 I’m currently learning at Chennai Institute Of Technology(chennai)
 - 💞️ I’m looking to collaborate on prjects
