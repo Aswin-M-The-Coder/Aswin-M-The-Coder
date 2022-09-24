@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswin M
-- 👀 I’m interested in Automation, machine learning and python
+- 👀 I’m interested in Automation,Artificial Intelligence, Machine learning and Python
 - 🌱 I’m currently learning at Chennai Institute Of Technology(chennai)
 - 💞️ I’m looking to collaborate on prjects
 - 📫 How to reach me (Contact: (+91) 9150155983)
